@@ -19,7 +19,3 @@ yarn install
 # bun
 bun install
 ```
-
-bun run preview
-```
-
